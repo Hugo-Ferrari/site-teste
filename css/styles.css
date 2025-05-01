@@ -1,0 +1,211 @@
+body{
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.container1 h1{
+    justify-content: center;
+    align-items: center;
+    font-size: 5.75rem;
+    width: 500;
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+
+.container1 h5{
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    width: 244px;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 700;
+    
+}
+.container1{
+
+}
+
+/* fazendo links */
+.links img{
+    margin: 10px;
+    height: 40px;
+    width: 40px;
+    
+    
+    
+}
+.links{
+    width: 244px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+.links a{
+    text-decoration: none;
+}
+/*modificando os id */
+
+#design{
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    width: 365px;
+    margin-top: -60px;
+    margin-left: auto;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+    
+}
+#nova{
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    width: 400px;
+    margin-top: 260px;
+    margin-right: auto;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+
+/* container 3*/
+
+.container3{
+    background-color: azure;
+    width: 630px;
+    height: 200px;
+    margin:40px;
+    padding-top:50px;
+    
+}
+.container3 h5{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+.container3 p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    font-size: 1.125rem;
+    
+}
+
+/*container 4*/
+.container4{
+    
+    background-color: azure;
+    width: 630px;
+    height: 200px;
+    margin-left: auto;
+    padding-top:50px;
+    margin-top: -290px;
+    
+   
+    
+    
+    
+}
+.container4 h5{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+.container4 p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    font-size: 1.125rem;
+    
+}
+
+/* container 5*/
+.container5{
+    background-color: azure;
+    width: 400px;
+    height: 230px;
+    margin:40px;
+    padding-top:50px;
+}
+.container5 h5{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.container5 p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    font-size: 1.125rem;
+}
+
+/*container 6*/
+.container6{
+    background-color: azure;
+    width: 400px;
+    height: 230px;
+    margin:40px;
+    padding-top:50px;
+}
+.container6 h5{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.container6 p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    font-size: 1.125rem;
+}
+/* container 7 */
+.container7{
+    background-color: azure;
+    width: 400px;
+    height: 230px;
+    margin:40px;
+    padding-top:50px;
+}
+.container7 h5{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.container7 p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    font-size: 1.125rem;
+}
