@@ -86,11 +86,12 @@ body{
 /* container 3*/
 
 .container3{
-    background-color: azure;
-    width: 630px;
+    background-color: #f2f2f2;
+    width: 580px;
     height: 200px;
-    margin:40px;
+    margin: 40px;
     padding-top:50px;
+    padding: 40px;
     
 }
 .container3 h5{
@@ -113,12 +114,13 @@ body{
 /*container 4*/
 .container4{
     
-    background-color: azure;
+    background-color: #f2f2f2;
     width: 630px;
     height: 200px;
     margin-left: auto;
     padding-top:50px;
-    margin-top: -290px;
+    margin-top: -320px;
+    padding: 40px;
     
    
     
@@ -144,11 +146,13 @@ body{
 
 /* container 5*/
 .container5{
-    background-color: azure;
-    width: 400px;
-    height: 230px;
-    margin:40px;
+    background-color: #f2f2f2;
+    width: 370px;
+    height: 200px;
+    margin: 40px;
+
     padding-top:50px;
+    padding: 40px;
 }
 .container5 h5{
     font-size: 1.25rem;
@@ -167,11 +171,13 @@ body{
 
 /*container 6*/
 .container6{
-    background-color: azure;
-    width: 400px;
-    height: 230px;
-    margin:40px;
+    background-color: #f2f2f2;
+    width: 370px;
+    height: 200px;
+    margin-left: 508px;
     padding-top:50px;
+    margin-top: -320px;
+    padding: 40px;
 }
 .container6 h5{
     font-size: 1.25rem;
@@ -189,11 +195,13 @@ body{
 }
 /* container 7 */
 .container7{
-    background-color: azure;
-    width: 400px;
-    height: 230px;
-    margin:40px;
+    background-color: #f2f2f2;
+    width: 370px;
+    height: 200px;
+    margin-left: auto;
+    margin-top: -280px;
     padding-top:50px;
+    padding: 40px;
 }
 .container7 h5{
     font-size: 1.25rem;
