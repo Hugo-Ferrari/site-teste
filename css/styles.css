@@ -217,3 +217,131 @@ body{
     line-height: 1.6;
     font-size: 1.125rem;
 }
+
+/* prejetos */
+.ultimos {
+    font-size: 3.75rem;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 40px;
+    
+}
+.projetos1 img{
+    height: 520px;
+    width: 700px;
+}
+.projetos1 p{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.projetos2 img{
+    height: 520px;
+    width: 700px;
+
+
+}
+.projetos2 p{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+/* fazendo o outro grupo */
+
+.projetos3 img{
+    height: 520px;
+    width: 700px;
+}
+.projetos3 p{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.projetos4 img{
+    height: 520px;
+    width: 700px;
+}
+.projetos4 p{
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+     
+}
+.projetos-1{
+    display: flex;
+    gap:30px;
+    margin-top: 30px;
+}
+.projetos-2{
+    display: flex;
+    gap: 30px;
+    
+}
+.sobre-mim{
+   width: 800px;
+   text-align: center;
+   margin: auto;
+   padding-top: 100px;
+   
+}
+.sobre-mim img{
+ height: 600px;
+ 
+}
+.sobre-mim h5{
+    font-size: 3.75rem;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 40px;
+}
+.sobre-mim p{
+    font-size: 1.125rem;
+    line-height: 1.6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Montserrat, sans-serif;
+    
+}
+.sobre-mim button{
+    height: 40px;
+    font-size:15px ;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+    border-radius: 5px;
+    
+    
+
+}
+.sobre-mim button:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    
+}
